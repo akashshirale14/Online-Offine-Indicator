@@ -17,7 +17,10 @@ public class RequestHandler {
         get("/users/getUserId","application/json",(request, response) -> {
             String id = request.queryParams("userId");
             boolean ans= storageHandler.get(id);
-            return "UserId +"+ id +"+ found ? " + ans;
+            if(ans){
+                return "UserId +"+ id +" is Online !! ";
+            }
+            return "UserId +"+ id +" is Offline." + ans;
         });
 
         post("/updateStatus/userId","application/x-www-form-urlencoded",((request, response) -> {

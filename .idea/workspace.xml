@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d938d51c-55f1-44e1-bec7-693ab15b85c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RedisStorageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RedisStorageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RequestHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StorageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StorageHandler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
